@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+lecture_cil_public-master/
+test/
+data/embeddings/
+.ipynb_checkpoints/
+log/
+_rw_scrap/
+predictions/
+int_/
+notebooks/

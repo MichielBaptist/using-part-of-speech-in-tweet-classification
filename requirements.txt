@@ -1,0 +1,10 @@
+# tensorflow-gpu>=1.8.0  # Uncomment for computers with a usable GPU. 
+tensorflow>=1.8.0 
+tensorboard==1.8.0
+tensorflow-hub>=0.1.0
+numpy>=1.14.3
+sklearn>=0.19.1
+pandas>=0.23.0
+nltk>=3.3.0
+tqdm>=4.23.0
+gensim>=3.4.0
