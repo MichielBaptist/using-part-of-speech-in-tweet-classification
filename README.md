@@ -1,5 +1,5 @@
 # About
-This project was realised by [Richard Wigren](https://github.com/ricwi102), [Gorm Rødder](https://github.com/gefylen) and myself. The project was completed for the Computational Intelligence Lab course at ETH. In this project we explore deep learning models in the task of tweet classification. We employed a naive bayes baseline and experimented with different neural network based architectures. Notably, we incorporated part of speech in one of our models by essentially embedding part of speech information in a similar vein as word embeddings. For a brief overview of the work, consult the mini-paper included in the repo.
+This project was in collaboration with [Richard Wigren](https://github.com/ricwi102), [Gorm Rødder](https://github.com/gefylen) and myself. The project was completed for the Computational Intelligence Lab course at ETH. In this project we explore deep learning models in the task of tweet classification. We employ a naive bayes baseline and experimented with different neural network based architectures. Notably, we incorporate part of speech in one of our models by essentially embedding part of speech information in a similar vein as word embeddings. For a brief overview of the work, consult the mini-paper included in the repo.
 
 All the data (source and processed) is quite large (4 GB) and stored in Google drive folders.
 
